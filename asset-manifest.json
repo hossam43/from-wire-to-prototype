@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/from-wire-to-prototype/static/css/main.289a57a0.css",
-    "main.js": "/from-wire-to-prototype/static/js/main.26bfb7a5.js",
+    "main.css": "/from-wire-to-prototype/static/css/main.ea4e140b.css",
+    "main.js": "/from-wire-to-prototype/static/js/main.e2a89504.js",
     "index.html": "/from-wire-to-prototype/index.html",
-    "main.289a57a0.css.map": "/from-wire-to-prototype/static/css/main.289a57a0.css.map",
-    "main.26bfb7a5.js.map": "/from-wire-to-prototype/static/js/main.26bfb7a5.js.map"
+    "main.ea4e140b.css.map": "/from-wire-to-prototype/static/css/main.ea4e140b.css.map",
+    "main.e2a89504.js.map": "/from-wire-to-prototype/static/js/main.e2a89504.js.map"
   },
   "entrypoints": [
-    "static/css/main.289a57a0.css",
-    "static/js/main.26bfb7a5.js"
+    "static/css/main.ea4e140b.css",
+    "static/js/main.e2a89504.js"
   ]
 }
