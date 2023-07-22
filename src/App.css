@@ -46,3 +46,8 @@ button.active {
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   }
 }
+
+.spinner {
+  font-weight: 500;
+  margin: 2em 0em;
+}
