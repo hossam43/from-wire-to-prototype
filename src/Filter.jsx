@@ -10,7 +10,7 @@ const Filter = ({ setActiveCategory, activeCategory, cardData, setFilter }) => {
       card.category.includes(activeCategory)
     );
     setFilter(filtered);
-  }, [activeCategory]);
+  }, [activeCategory, cardData, setFilter]);
   return (
     <div className="filter-container">
       <button
